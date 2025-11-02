@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "683993489161",
+    "project_id": "book-reader-app-c75ba",
+    "storage_bucket": "book-reader-app-c75ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683993489161:android:8174194286a3d60df83dd8",
+        "android_client_info": {
+          "package_name": "com.example.book_reader_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683993489161-kdmnj95vfuvhulci8pksd0p0a4nln6cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_reader_app",
+            "certificate_hash": "9e61f9f9abe4216bc8539615991ac42a80f4a82a"
+          }
+        },
+        {
+          "client_id": "683993489161-3gc2a14kmqo19d6c3ig06sfsgd5u9ctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWP81ClVwpPydUmGLSaCpW5psg12pAUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683993489161-3gc2a14kmqo19d6c3ig06sfsgd5u9ctu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683993489161-5e1m0jp7timmmsopcpa271k927cqobha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookReaderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

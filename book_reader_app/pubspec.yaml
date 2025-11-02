@@ -1,0 +1,42 @@
+name: book_reader_app
+description: Google Books reader (frontend-only)
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+
+  # Google Books
+  googleapis: ^15.0.0         # ví dụ phiên bản mới nhất
+  googleapis_auth: ^1.2.0     # kiểm tra xem có gói nào hỗ trợ Flutter tốt hơn
+
+  http: ^1.5.0
+
+  # Firebase
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.0
+  google_sign_in: ^6.1.0
+
+  # State & local storage
+  provider: ^6.0.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  path_provider: ^2.0.15
+
+  # UI & tiện ích
+  cached_network_image: ^3.2.4
+  webview_flutter: ^4.0.7
+  url_launcher: ^6.1.12
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
